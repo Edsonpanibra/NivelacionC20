@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+  background-image: url(https://imagenes.20minutos.es/files/og_thumbnail/uploads/imagenes/2021/01/12/vengadores-marvel.jpeg);
+background-size: cover;
+background-repeat: no-repeat;
+height: 100vh;
+overflow: auto;
+
+
+}
+.rojo{
+    border: solid 1px;
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    margin-top: 100px;
+    padding-top:50px;
+    background-color: #caca9f;
+    border-radius: 10%;
+    opacity: 80%;
+}
+.azul{
+    width: 200px;
+height: 200px;
+border-radius: 50%;
+margin-bottom: 40px;
+}
